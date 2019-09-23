@@ -12,6 +12,16 @@ Just my interesting articles not to forget...
 - [MTM on arrays in PostgreSQL](https://medium.com/@leshchuk/mtm-on-arrays-in-postgresql-a97f3c50b8c6)
 - [A Guide to Function Composition in Ruby](https://www.ghostcassette.com/function-composition-in-ruby/)
 - [How to: Execute RSpec in parallel locally](https://devopsvoyage.com/2018/10/22/execute-rspec-locally-in-parallel.html)
+- [Result Objects - Errors Without Exceptions](https://www.rubypigeon.com/posts/result-objects-errors-without-exceptions/)
+- [Resilience in Ruby: Handling Failure](https://johnnunemaker.com/resilience-in-ruby/)
+- [Ruby 2.0 Works Hard So You Can Be Lazy](http://patshaughnessy.net/2013/4/3/ruby-2-0-works-hard-so-you-can-be-lazy)
+- [Enumerator: Ruby’s Versatile Iterator](https://blog.carbonfive.com/2012/10/02/enumerator-rubys-versatile-iterator/)
+- [JSON Serialization in Rails: A Complete Guide](https://buttercms.com/blog/json-serialization-in-rails-a-complete-guide)
+- [Rails CSRF protection for SPA](https://blog.eq8.eu/article/rails-api-authentication-with-spa-csrf-tokens.html)
+- [Escaping the SPA rabbit hole with modern Rails](https://medium.com/@jmanrubia/escaping-the-spa-rabbit-hole-with-turbolinks-903f942bf52c)
+- [Designing Services with dry-rb](https://medium.com/adhawk-engineering/designing-services-with-dry-rb-fe850f8dd4b7)
+- [Refactoring Ruby with Monads](https://codon.com/refactoring-ruby-with-monads)
+- [The 3 Tenets of Service Objects in Ruby on Rails](https://hackernoon.com/the-3-tenets-of-service-objects-c936b891b3c2)
 
 **Ruby gems**
 - https://github.com/awslabs/deequ Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
@@ -20,6 +30,10 @@ Just my interesting articles not to forget...
 - https://github.com/route/ferrum Ruby Chrome/Chromium driver
 - https://github.com/ankane/dexter The automatic indexer for Postgres
 - https://github.com/drivy/checker_jobs Regression testing for data
+- https://github.com/apneadiving/waterfall A slice of functional programming to chain ruby services and blocks, thus providing a new approach to flow control. Make them flow!
+- https://github.com/tomdalling/resonad Ruby result monad class(es)
+- https://github.com/podigee/device_detector DeviceDetector is a precise and fast user agent parser and device detector written in Ruby
+https://github.com/vifreefly/kimuraframework Modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites
 
 **Devops, AWS, Heroku**
 
