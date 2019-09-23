@@ -2,28 +2,38 @@ Just my interesting articles not to forget...
 
 ---
 
-**Ruby**
-
+# Ruby
+## Language details
 - [Ruby and the singleton pattern don't get along](https://practicingruby.com/articles/ruby-and-the-singleton-pattern-dont-get-along)
-- [Common Table Expressions in ActiveRecord: A Case Study of Quantiles](http://sonnym.github.io/2017/06/05/common-table-expressions-in-activerecord-a-case-study-of-quantiles/)
-- [Practical Data Science with Ruby based tools](https://github.com/arbox/data-science-with-ruby)
-- [Do You Know How Hash Table Works? (Ruby Examples)](https://anadea.info/blog/how-hash-table-works-ruby-examples)
-- [Using Lambdas to Simplify Varying Behaviors in Your Code](https://bbs-software.com/blog/2018/08/04/using-lambdas-to-simplify-varying-behaviors-in-your-code.html)
-- [MTM on arrays in PostgreSQL](https://medium.com/@leshchuk/mtm-on-arrays-in-postgresql-a97f3c50b8c6)
-- [A Guide to Function Composition in Ruby](https://www.ghostcassette.com/function-composition-in-ruby/)
-- [How to: Execute RSpec in parallel locally](https://devopsvoyage.com/2018/10/22/execute-rspec-locally-in-parallel.html)
-- [Result Objects - Errors Without Exceptions](https://www.rubypigeon.com/posts/result-objects-errors-without-exceptions/)
-- [Resilience in Ruby: Handling Failure](https://johnnunemaker.com/resilience-in-ruby/)
 - [Ruby 2.0 Works Hard So You Can Be Lazy](http://patshaughnessy.net/2013/4/3/ruby-2-0-works-hard-so-you-can-be-lazy)
 - [Enumerator: Ruby’s Versatile Iterator](https://blog.carbonfive.com/2012/10/02/enumerator-rubys-versatile-iterator/)
+- [Do You Know How Hash Table Works? (Ruby Examples)](https://anadea.info/blog/how-hash-table-works-ruby-examples)
+
+## Rails and dry-rb
 - [JSON Serialization in Rails: A Complete Guide](https://buttercms.com/blog/json-serialization-in-rails-a-complete-guide)
 - [Rails CSRF protection for SPA](https://blog.eq8.eu/article/rails-api-authentication-with-spa-csrf-tokens.html)
 - [Escaping the SPA rabbit hole with modern Rails](https://medium.com/@jmanrubia/escaping-the-spa-rabbit-hole-with-turbolinks-903f942bf52c)
 - [Designing Services with dry-rb](https://medium.com/adhawk-engineering/designing-services-with-dry-rb-fe850f8dd4b7)
-- [Refactoring Ruby with Monads](https://codon.com/refactoring-ruby-with-monads)
 - [The 3 Tenets of Service Objects in Ruby on Rails](https://hackernoon.com/the-3-tenets-of-service-objects-c936b891b3c2)
 
-**Ruby gems**
+## SQL
+- [Common Table Expressions in ActiveRecord: A Case Study of Quantiles](http://sonnym.github.io/2017/06/05/common-table-expressions-in-activerecord-a-case-study-of-quantiles/)
+- [MTM on arrays in PostgreSQL](https://medium.com/@leshchuk/mtm-on-arrays-in-postgresql-a97f3c50b8c6)
+
+## Data science
+- [Practical Data Science with Ruby based tools](https://github.com/arbox/data-science-with-ruby)
+
+## Functional programming, lambdas, monads, etc
+- [A Guide to Function Composition in Ruby](https://www.ghostcassette.com/function-composition-in-ruby/)
+- [Using Lambdas to Simplify Varying Behaviors in Your Code](https://bbs-software.com/blog/2018/08/04/using-lambdas-to-simplify-varying-behaviors-in-your-code.html)
+- [Resilience in Ruby: Handling Failure](https://johnnunemaker.com/resilience-in-ruby/)
+- [Result Objects - Errors Without Exceptions](https://www.rubypigeon.com/posts/result-objects-errors-without-exceptions/)
+- [Refactoring Ruby with Monads](https://codon.com/refactoring-ruby-with-monads)
+
+## Other
+- [How to: Execute RSpec in parallel locally](https://devopsvoyage.com/2018/10/22/execute-rspec-locally-in-parallel.html)
+
+# Ruby gems
 - https://github.com/awslabs/deequ Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
 - https://github.com/SciRuby/daru Data Analysis in RUby
 - https://github.com/igrigorik/decisiontree ID3-based implementation of the ML Decision Tree algorithm
