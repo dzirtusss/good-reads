@@ -45,7 +45,7 @@ Just my interesting articles not to forget...
 - https://github.com/podigee/device_detector DeviceDetector is a precise and fast user agent parser and device detector written in Ruby
 https://github.com/vifreefly/kimuraframework Modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites
 
-**Devops, AWS, Heroku**
+# Devops, AWS, Heroku
 
 - [Get client's real IP address on Heroku](https://stackoverflow.com/questions/18264304/get-clients-real-ip-address-on-heroku)
 - [Resizing Images with Amazon CloudFront & Lambda@Edge](https://aws.amazon.com/blogs/networking-and-content-delivery/resizing-images-with-amazon-cloudfront-lambdaedge-aws-cdn-blog/)
